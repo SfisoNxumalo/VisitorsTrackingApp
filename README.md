@@ -1,2 +1,2 @@
 # VisitorsApp
-Complex management to help security guards monitor visitors data
+The visitors tracking app to help security guards monitor visitors data
